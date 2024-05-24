@@ -7,6 +7,8 @@ import androidx.navigation.NavType
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 
+///asdasd
+
 inline fun <reified T : Parcelable> parcelableType(
     isNullableAllowed: Boolean = false,
     json: Json = Json,
